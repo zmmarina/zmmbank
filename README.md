@@ -5,7 +5,7 @@ This project was developed during a class by Alura. The main purpose of it was t
 
 <h2> :moneybag: Features </h2>
 <ul>
-  <li>Add new negociations</li>
+  <li>Add new negociations (only weekdays are allowed)</li>
   <li>Import negociations from an API</li>
   <li>Show all negociations to the user</li> 
 </ul>
